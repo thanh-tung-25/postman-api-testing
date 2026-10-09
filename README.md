@@ -43,4 +43,5 @@ pm.test("Check response data structure", function () {
     var jsonData = pm.response.json();
     pm.expect(jsonData.id).to.eql(1);
 });
-Ảnh minh họa
+
+
