@@ -1,8 +1,8 @@
 # BÁO CÁO THỰC HÀNH KIỂM THỬ API BẰNG POSTMAN
 
-- **Họ và tên:** [Điền Tên Bạn]
-- **Mã sinh viên:** [Điền MSV]
-- **Lớp:** [Điền Tên Lớp]
+- **Họ và tên:** Đặng Thanh Tùng
+- **Mã sinh viên:** 23010218
+- **Lớp:** K17-CNTT_3
 - **Link Video Tham Khảo:** https://www.youtube.com/watch?v=MFxk5BZulVU
 
 ---
