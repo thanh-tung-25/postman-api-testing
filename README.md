@@ -44,8 +44,8 @@ pm.test("Check response data structure", function () {
     pm.expect(jsonData.id).to.eql(1);
 });
 
----
-ẢNh minh họa
-<img width="1610" height="1001" alt="image" src="https://github.com/user-attachments/assets/0247b507-b6f3-41ff-986c-483b4c1153c0" />
+`````
 
+### Ảnh minh họa
+![Kết quả kiểm thử Postman](https://github.com/user-attachments/assets/0247b507-b6f3-41ff-986c-483b4c1153c0)
 
